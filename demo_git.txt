@@ -1,1 +1,3 @@
 Welcom to Git!!!
+
+Git cơ bản dành người mới bắt đầu.
