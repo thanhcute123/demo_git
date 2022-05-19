@@ -1,3 +1,5 @@
 Welcom to Git!!!
 
-Git cơ bản dành người mới bắt đầu.
+Git cơ bản dành người mới bắt đầu
+
+- Các lệnh git cơ bản:
